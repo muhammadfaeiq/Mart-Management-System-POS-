@@ -1,4 +1,4 @@
-# Mart Management System & AgriCare AI
+# Mart Management System
 
 ## 📌 Project Overview
 This repository contains two core software engineering projects aimed at automating retail operations and revolutionizing agriculture through AI.
