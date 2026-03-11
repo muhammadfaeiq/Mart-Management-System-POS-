@@ -9,15 +9,15 @@ The **Mart Management System** is a software solution designed to computerize an
 This project follows a **Three-Tier Architecture** to ensure high performance, security, and scalability:
 
 1. 
-**Presentation Layer (Client Tier):** The front-end user interface containing role-based buttons and input forms.
+**Presentation Layer :** The front-end user interface containing role-based buttons and input forms.
 
 
 2. 
-**Business Logic Layer (Application Tier):** The "heart" of the application that handles data processing, input validation, and business rules like discount calculations and inventory alerts.
+   **Application Layer :** The "heart" of the application that handles data processing, input validation, and business rules like discount calculations and inventory alerts.
 
 
 3. 
-**Data Layer (Database Tier):** Responsible for secure data storage and retrieval of product, sale, and employee records.
+**Data Layer :** Responsible for secure data storage and retrieval of product, sale, and employee records.
 
 
 
